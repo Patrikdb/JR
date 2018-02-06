@@ -1,0 +1,118 @@
+body{
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  font-family: 'Montserrat', sans-serif;
+  background: #546A7B;
+  z-index: 2;
+}
+
+.subh{
+  font-weight: 600;
+  margin-top: -1em;
+  font-size: 10px;
+}
+
+.mainbg{
+background-attachment: fixed;
+   background-image: url('../img/geisha.jpeg');
+  height: 70vh;
+  background-size: cover;
+  background-position:center;
+  z-index: -5000;
+}
+
+.logo{
+  margin-top: -20em;
+}
+/*
+.mainrow{
+  background: #f4f4f4;
+}
+
+.mainpic{
+  margin: 4em auto 0;
+  background-image: url('../img/mainpic-min.jpeg');
+  height: 890px;
+  background-repeat: no-repeat;
+  background-size: 2100px auto;
+  background-position: top;
+  background-attachment: fixed;
+  filter:brightness(0.8);
+}
+
+.headr{
+  margin: -45em auto 0;
+}
+
+.mainpictext{
+  margin: 0;
+  color:#f4f4f4;
+  font-size: 150px;
+  text-shadow: 4px 4px #222;
+  font-weight: 1000;
+  z-index: 1;
+}
+
+.mainpictext2{
+  color:#f4f4f4;
+  font-size: 70px;
+  text-shadow: 2px 2px #222;
+  font-weight: 400;
+  z-index: 1;
+  font-family: 'Old Standard TT', serif;
+}
+
+.fa-chevron-down{
+  margin: 2em 2em 1em 2em;
+  color:#fff;
+  z-index: 1;
+  text-shadow: 4px 4px #222;
+}
+.fa-angle-double-right{
+  margin: 0 auto;
+  color:#f4f4f4;
+  z-index: 1;
+}
+
+@media(max-width:740px){
+  .mainpictext{
+    font-size: 120px;
+  }
+  .mainpictext2{
+    font-size: 50px;
+  }
+
+}
+
+@media(max-width:607px){
+  .mainpictext{
+    font-size: 100px;
+  }
+  .mainpictext2{
+    font-size: 40px;
+  }
+}
+@media(max-width:515px){
+  .mainpictext{
+    font-size: 80px;
+  }
+  .mainpictext2{
+    font-size: 30px;
+  }
+  .fa-chevron-down{
+    margin: 2em 1em 1em 1em;
+    color:#fff;
+    z-index: 1;
+    text-shadow: 4px 4px #222;
+  }
+}
+@media(max-width:425px){
+  .mainpictext{
+    font-size: 60px;
+  }
+  .mainpictext2{
+    font-size: 20px;
+  }
+}
+*/

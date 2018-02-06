@@ -1,0 +1,37 @@
+
+header{
+  overflow: hidden;
+  //background: rgba(255,255,255,0.9);
+position: fixed; /* Set the navbar to fixed position */
+top: 0; /* Position the navbar at the top of the page */
+width: 100%; /* Full width */
+z-index: 5000;
+background-color: #0D1F2D;
+}
+img{
+  margin: -80em auto;
+  z-index: 5000;
+}
+
+.land-bg{
+  background-color: rgba(255, 255, 255,0.7);
+
+  .col{
+    a
+    {
+      padding: 5em;
+    }
+  }
+}
+
+.navbar{
+  .navbar-nav{
+  margin: 0 auto;
+  }
+  .nav-item{
+    font-weight: 400;
+    font-size: 20px;
+    color:#666;
+    padding:2em;
+  }
+}
